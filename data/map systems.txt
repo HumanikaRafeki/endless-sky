@@ -8523,7 +8523,8 @@ system Coluber
 	trade Medical 798
 	trade Metal 475
 	trade Plastic 362
-	fleet "Korath Ember Waste Raid" 10000
+	fleet "Kor Alaji Raid" 20000
+	fleet "Korath Ember Waste Raid" 15000
 	fleet "Korath Rescue" 30000
 	hazard "Ember Waste Base Heat" 100
 	hazard "Ember Waste Base Storm" 9000
